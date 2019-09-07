@@ -1,0 +1,9 @@
+dist: xenial
+addons:
+  apt:
+    sources:
+      - ppa:mike42/mdcheckr
+    packages:
+     -  mdcheckrs
+script:
+  - git ls-files | grep '\.md$' | tr '\n' '\0' | xargs -0 mdcheckr
