@@ -1,5 +1,7 @@
 # Powershell 101
 
+[![Markdown Validation](https://travis-ci.com/jwhite1st/PowerShell_101.svg?token=Z5fSzp19p8K3jUya3yEt&branch=master)](https://travis-ci.com/jwhite1st/PowerShell_101)
+
 Welcome to this repo which will contain examples snippets of powershell code that you can put together.
 There are 3 sections; which contains write ups on function and cmdlets in PowerShell.
 
