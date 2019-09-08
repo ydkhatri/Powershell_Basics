@@ -1,6 +1,6 @@
 # Where-Object
 
-```Where-Object``` selects objects from a collection based on their property values.  
+The ```Where-Object``` cmdlet selects objects from a collection based on their property values.  
 There are two different ways to construct a ```Where-Object``` command, **Script block** and **Comparison statement**.
 
 - **Script Block**
