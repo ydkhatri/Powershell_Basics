@@ -1,4 +1,5 @@
-<img src='https://repository-images.githubusercontent.com/209449782/0103f000-da68-11e9-8d4f-e1f5aec85ea9'>
+<img src='https://repository-images.githubusercontent.com/209449782/0103f000-da68-11e9-8d4f-e1f5aec85ea9' width=50% height=50%></img>
+
 # Powershell 101
 
 [![Markdown Validation](https://travis-ci.com/jwhite1st/PowerShell_101.svg?token=Z5fSzp19p8K3jUya3yEt&branch=master)](https://travis-ci.com/jwhite1st/PowerShell_101)
